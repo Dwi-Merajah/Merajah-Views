@@ -1,0 +1,18 @@
+{
+  "name": "Merajah-Views",
+  "version": "1.0.0",
+  "description": "Simple Bot WhatsApp For Read Status Only.",
+  "type": "module",
+  "main": "index.js",
+  "scripts": {
+    "start": "node ."
+  },
+  "author": "Dwi-Merajah",
+  "license": "MIT",
+  "dependencies": {
+    "@hapi/boom": "^10.0.1",
+    "@itsliaaa/baileys": "npm:@itsliaaa/baileys",
+    "chalk": "^5.3.0",
+    "pino": "^9.7.0"
+  }
+}

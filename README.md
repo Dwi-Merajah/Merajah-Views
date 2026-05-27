@@ -1,4 +1,4 @@
-# Merajah-Views 🚀
+# Merajah-Views
 
 <p align="center">
   <img src="https://img.shields.io/badge/Node.js-v22+-3C873A?style=for-the-badge&logo=node.js&logoColor=white" />
@@ -116,7 +116,6 @@ Merajah-Views/
 
 ## 💖 Credits
 
-- Merajah
 - Baileys
 - WhiskeySockets
 - ItsLiaaa
